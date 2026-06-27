@@ -5,14 +5,14 @@
 <div align="center">
 
 <!-- ░░ TYPING BANNER ░░ -->
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/Abdoun1m">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00E676&center=true&vCenter=true&width=760&lines=root%40abdelmoughite%3A~%24+whoami;Ing%C3%A9nieur+d'%C3%89tat+en+Cybers%C3%A9curit%C3%A9+%C2%B7+OT%2FICS+%E2%88%A9+DevSecOps;cyber-range+builder+%C2%B7+SOC+%C2%B7+secure+architecture;%22never+invent+crypto+%E2%80%94+compose+proven+primitives%22" alt="typing banner" />
 </a>
 
 </div>
 
 ```bash
-┌─[ abdelmoughite ]─[ ~/security ]
+┌─[ abdoun1m ]─[ ~/security ]
 └─$ cat profile.yaml
 ```
 
@@ -76,12 +76,12 @@ drwxr-xr-x  integrity-overlay     peer-verification overlay, pre-distributed key
 <div align="center">
 
 <!-- ░░ STATS ░░ -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00E676&icon_color=00E676&text_color=A0A0A0&ring_color=00E676" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdoun1m&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00E676&icon_color=00E676&text_color=A0A0A0&ring_color=00E676" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00E676&text_color=A0A0A0&langs_count=8" alt="langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=0D0D0D&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676&sideLabels=A0A0A0&dates=505050&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Abdoun1m&hide_border=true&background=0D0D0D&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676&sideLabels=A0A0A0&dates=505050&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
 
 </div>
 
@@ -90,7 +90,7 @@ drwxr-xr-x  integrity-overlay     peer-verification overlay, pre-distributed key
 <div align="center">
 
 <!-- ░░ SNAKE (needs the snake GitHub Action — see note) ░░ -->
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/USERNAME/Abdoun1m/output/snake-dark.svg" alt="snake animation" />
 
 </div>
 
