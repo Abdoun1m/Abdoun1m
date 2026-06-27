@@ -48,9 +48,9 @@ langs:      Arabic (native) · Français (C1) · English (C1)
 ![Docker](https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=00E676&labelColor=0D0D0D)
 ![K8s](https://img.shields.io/badge/Kubernetes-1A1A1A?style=flat-square&logo=kubernetes&logoColor=00E676&labelColor=0D0D0D)
 ![Jenkins](https://img.shields.io/badge/Jenkins-1A1A1A?style=flat-square&logo=jenkins&logoColor=00E676&labelColor=0D0D0D)
-![Vault](https://img.shields.io/badge/Vault-1A1A1A?style=flat-square&logo=vault&logoColor=00E676&labelColor=0D0D0D)
-![SonarQube](https://img.shields.io/badge/SonarQube-1A1A1A?style=flat-square&logo=sonarqube&logoColor=00E676&labelColor=0D0D0D)
-![AWS](https://img.shields.io/badge/AWS-1A1A1A?style=flat-square&logo=amazonwebservices&logoColor=00E676&labelColor=0D0D0D)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-1A1A1A?style=flat-square&logo=hashicorp&logoColor=00E676&labelColor=0D0D0D)
+![SonarQube](https://img.shields.io/badge/SonarQube-1A1A1A?style=flat-square&logo=sonarqubeserver&logoColor=00E676&labelColor=0D0D0D)
+![AWS](https://img.shields.io/badge/AWS-1A1A1A?style=flat-square&labelColor=0D0D0D)
 
 **Code · Data**
 ![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=00E676&labelColor=0D0D0D)
